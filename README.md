@@ -24,7 +24,7 @@
 
 ##### Mac:
 ```
-export ANDROID_HOME=/Users/stanislav/Library/Android/sdk
+export ANDROID_HOME=/Users/ipavlov/Library/Android/sdk
 ```
 ```
 export PATH=$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools

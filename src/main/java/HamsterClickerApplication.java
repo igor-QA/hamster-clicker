@@ -11,7 +11,6 @@ public class HamsterClickerApplication {
         setup();
         new HamsterScreen().tapManyTimes();         // for unlimited taps
 //        new HamsterScreen().tapMorseCode("GAMEFI");     // for morse (Improver Version)
-//        new screens.Hamster().tapMorseCode();         // for morse (OLD BAD Version)
     }
 
     // Here we config driver, boring!
